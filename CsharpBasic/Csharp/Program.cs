@@ -10,9 +10,8 @@ namespace Csharp
     {
         static void Main(string[] args)
         {
-            For_ForEach obj =new For_ForEach();
-            obj.Get_ForLoop();
-
+            Methods obj =new Methods();
+            obj.GetParameterArrat();
 
             Console.ReadLine();
         }
