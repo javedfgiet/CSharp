@@ -10,8 +10,8 @@ namespace Csharp
     {
         static void Main(string[] args)
         {
-            Methods obj =new Methods();
-            obj.GetParameterArrat();
+            GetEmployee obj =new GetEmployee();
+            obj.GetEmployeeDetails();
 
             Console.ReadLine();
         }

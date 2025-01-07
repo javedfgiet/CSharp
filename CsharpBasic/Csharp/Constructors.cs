@@ -170,11 +170,11 @@ namespace Csharp
     {
         Console.WriteLine("Test1.id = " + id);
     }
-    static void Main(string[] args)
-    {
-        //Print the value of id
-        Test.print();
-    }
+    //static void Main(string[] args)
+    //{
+    //    //Print the value of id
+    //    Test.print();
+    //}
 }
 
 

@@ -47,6 +47,7 @@
     <Compile Include="Constructors.cs" />
     <Compile Include="DataTypeConversion.cs" />
     <Compile Include="For_ForEach.cs" />
+    <Compile Include="InheritenceEx.cs" />
     <Compile Include="Methods.cs" />
     <Compile Include="Nullable_NonNullable.cs" />
     <Compile Include="Program.cs" />
