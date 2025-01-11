@@ -8,6 +8,7 @@ namespace Csharp
 {
     public class Employee
     {
+        public int EmployeeId;
         public string FirstName;
         public string LastName;
         public string Email;

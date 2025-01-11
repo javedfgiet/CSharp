@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Csharp.MultiThreadApp;
+using System;
+
 
 namespace Csharp
 {
@@ -10,8 +8,8 @@ namespace Csharp
     {
         static void Main(string[] args)
         {
-            GetEmployee obj =new GetEmployee();
-            obj.GetEmployeeDetails();
+            CallBackNumber obj =new CallBackNumber();
+            obj.CallBackFirst();
 
             Console.ReadLine();
         }
