@@ -8,8 +8,9 @@ namespace Csharp
     {
         static void Main(string[] args)
         {
-            CallBackNumber obj =new CallBackNumber();
-            obj.CallBackFirst();
+            AnonymousMethod obj =new AnonymousMethod();
+            obj.GetAnonymousMethod();
+            //Console.WriteLine("No Of Processor : {0}",Environment.ProcessorCount);
 
             Console.ReadLine();
         }
